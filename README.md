@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/fr/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # TAVARDT France | Ingénierie Web, Cybersécurité et Architecture de Croissance Digitale
 
 TAVARDT est une société de conseil en ingénierie digitale, pratique de cyberdéfense et firme d'architecture de croissance spécialisée dans les applications web de mission critique, l'atténuation proactive des menaces et les systèmes d'acquisition client fondés sur la donnée.
