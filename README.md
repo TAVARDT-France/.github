@@ -118,4 +118,4 @@ Toutes les infrastructures et solutions déployées au sein du périmètre opér
 * Portail Corporatif : [https://ag.tavardt.com/fr/](https://ag.tavardt.com/fr/)
 * Suite d'Outils Techniques : [https://tools.tavardt.com/fr/](https://tools.tavardt.com/fr/)
 * Courrier Électronique Institutionnel : [contact@tavardt.com](mailto:contact@tavardt.com)
-* Canal d'Assistance Directe : [Consultation Technique Directe avec Sofia (WhatsApp)](https://wa.me/5584987721775?text=Bonjour%20Sofia,%20je%20vous%20contacte%20via%20l'organisation%20GitHub%20de%20TAVARDT%20France%20pour%20une%20consultation%20technique.)
+* Canal d'Assistance Directe : [Échange Direct avec Sofia (WhatsApp)](https://wa.me/5584987721775?text=Bonjour%20Sofia,%20je%20vous%20contacte%20via%20l'organisation%20GitHub%20de%20TAVARDT%20France%20pour%20entrer%20en%20contact.)
