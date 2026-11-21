@@ -79,6 +79,7 @@ Ce référentiel constitue le pôle central de distribution technique et de docu
 
 La suite de diagnostics techniques TAVARDT est accessible publiquement pour vos audits de vulnérabilité, vérifications d'infrastructure et tests de performance :
 
+* [Évaluateur de Robustesse LLM & Testeur de Résilience Guardrails](https://tools.tavardt.com/fr/llm-robustness-evaluator/): Fuzzer et simulateur de sécurité défensive pour auditer les system prompts de LLM contre les injections de prompts, les contournements de rôle et la fuite d'instructions. Resilience Score (0-100) + blueprints de sécurisation. ([Dépôt GitHub](https://tavardt-france.github.io/llm-robustness-evaluator-fr/))
 * [Vérificateur DMARC et Usurpation d'Email](https://tools.tavardt.com/fr/verificateur-dmarc-email/): Valide les politiques DMARC, l'alignement SPF et les clés publiques DKIM pour neutraliser l'usurpation d'identité de domaine et le phishing.
 * [Analyse des En-têtes de Sécurité HTTP](https://tools.tavardt.com/fr/analyse-en-tetes-securite/): Audite la conformité des en-têtes web défensifs tels que CSP, HSTS, X-Frame-Options et Referrer-Policy.
 * [Détecteur de Spam SEO et Sites Piratés](https://tools.tavardt.com/fr/detecteur-spam-seo-site-pirate/): Détecte les injections d'hyperliens dissimulés, les redirections conditionnelles de serveur et le contenu malveillant masqué.
